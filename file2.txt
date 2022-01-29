@@ -1,4 +1,3 @@
 this is another healthy commit
 This is another healthy commit
 This is another bad addition
-This is bad addition
